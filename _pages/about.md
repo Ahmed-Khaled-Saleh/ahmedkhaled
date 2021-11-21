@@ -4,8 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+My name is **Ahmed Khaled**. Computer Science student, Software engineering enthsiast and some other stuff .
+
+This is my Technical place on the internet wherei write things (*both bad an good*) about things that are also (bad and good and a combination of both).
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
